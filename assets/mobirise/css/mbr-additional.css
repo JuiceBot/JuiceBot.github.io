@@ -2209,6 +2209,18 @@ body {
 .cid-rfZHRvJb4f .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rglcXkeR1P {
+  background-color: #1a0229;
+}
+.cid-rgld7DJxk0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-rgld7DJxk0 .mbr-text,
+.cid-rgld7DJxk0 blockquote {
+  color: #767676;
+}
 .cid-rfZHRvJb4f .navbar {
   padding: .5rem 0;
   background: #232323;
